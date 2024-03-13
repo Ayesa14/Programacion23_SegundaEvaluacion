@@ -26,3 +26,5 @@
 
 ## [Boletin 26](https://github.com/Ayesa14/Programacion23_SegundaEvaluacion/tree/main/Bol26)
 
+## [Boletin27](https://github.com/Ayesa14/Programacion23_SegundaEvaluacion/tree/main/Bol27/Boletin27/src)
+
